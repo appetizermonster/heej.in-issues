@@ -1,2 +1,2 @@
-# heej.in-issues
-heej.in 이슈 저장소
+# readpost.co-issues
+readpost.co 이슈 저장소
